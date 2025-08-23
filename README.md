@@ -2,7 +2,7 @@
 readme.md  
 **`Desenvolvedora FullStack`**
 
-Me chamo Raica Jesus dos Santos, tenho 16 anos e sou de Tailandia Pára. Ainda estou concluindo o ensino medio na escola com ensino Tecnico Eetepa, com o curso técnico em informática. Atualmente, estou em busca de ampliar mais meu conhecimento e de me especializar mais no ramo da tecnologia.
+Me chamo Raica Jesus dos Santos, tenho 16 anos e sou de Tailandia Pára. Ainda estou concluindo meu ensino medio na escola com ensino Tecnico Eetepa, com o curso técnico em informática. Atualmente, estou em busca de ampliar mais meu conhecimento e de me especializar mais no ramo da tecnologia.
 
 
 ---
